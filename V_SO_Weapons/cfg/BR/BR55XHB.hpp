@@ -114,6 +114,8 @@ class OPTRE_BR55HB: OPTRE_Rifle_Base
 		};
 	};
 	
+	class Burst;
+	
 	class FullAuto: Burst
 	{
 		aiDispersionCoefX 		= 2;
